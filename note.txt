@@ -1,0 +1,11 @@
+user => login, signup
+category => CRUD
+Puzzle => CRUD 
+
+================================================
+MVC //done
+Bcrypt // done 
+nodemailer //done
+multer // done
+jwt // done
+postman // done

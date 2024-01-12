@@ -1,0 +1,3 @@
+git init (per project 1st time)
+
+check for .gitignore file and add /node_modules (per project 1st time)

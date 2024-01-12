@@ -1,3 +1,11 @@
 git init (per project 1st time)
 
 check for .gitignore file and add /node_modules (per project 1st time)
+
+git add .
+
+git remote add origin https://github.com/khyatimaniya11/puzzle-app-apis.git (per project 1st time)
+
+git commit -m "message"
+
+git push -u origin master (per project 1st time)
